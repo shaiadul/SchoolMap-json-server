@@ -5,7 +5,7 @@
             "name": "saidul",
             "email": "mdsaidul404@gmail.com",
             "phone": "01845962478",
-            "roll": "Teacher",
+            "role": "Teacher",
             "group": "Arts",
             "status": "active"
         },
@@ -14,7 +14,7 @@
             "name": "basar",
             "email": "basar403@gmail.com",
             "phone": "01845962478",
-            "roll": "Sweeper",
+            "role": "Sweeper",
             "group": "Worker",
             "status": "active"
         },
@@ -23,7 +23,7 @@
             "name": "shalman",
             "email": "shalman00@gmail.com",
             "phone": "01965962478",
-            "roll": "Teacher",
+            "role": "Teacher",
             "group": "Science",
             "status": "Inactive"
         },
@@ -32,7 +32,7 @@
             "name": "alaboddin",
             "email": "alaboddin555@gmail.com",
             "phone": "01596562478",
-            "roll": "Sweeper",
+            "role": "Sweeper",
             "group": "Worker",
             "status": "active"
         },
@@ -41,7 +41,7 @@
             "name": "Faruk",
             "email": "fkhan121@gmail.com",
             "phone": "01596562478",
-            "roll": "Teacher",
+            "role": "Teacher",
             "group": "Arts",
             "status": "Inactive"
         },
@@ -50,7 +50,7 @@
             "name": "bijoy",
             "email": "bijoy121@gmail.com",
             "phone": "01596648217",
-            "roll": "Sweeper",
+            "role": "Sweeper",
             "group": "Worker",
             "status": "active"
         },
@@ -59,7 +59,7 @@
             "name": "Rumana",
             "email": "rumana5@gmail.com",
             "phone": "01736985214",
-            "roll": "Teacher",
+            "role": "Teacher",
             "group": "Arts",
             "status": "Inactive"
         },
@@ -68,7 +68,7 @@
             "name": "kamal",
             "email": "kamal99@gmail.com",
             "phone": "01652962478",
-            "roll": "Teacher",
+            "role": "Teacher",
             "group": "Science",
             "status": "active"
         },
@@ -77,7 +77,7 @@
             "name": "Rohima",
             "email": "rohima333@gmail.com",
             "phone": "01596562478",
-            "roll": "Teacher",
+            "role": "Teacher",
             "group": "Science",
             "status": "Inactive"
         },
@@ -86,7 +86,7 @@
             "name": "jamal",
             "email": "jamal10@gmail.com",
             "phone": "01945821367",
-            "roll": "Teacher",
+            "role": "Teacher",
             "group": "Arts",
             "status": "active"
         }
